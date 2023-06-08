@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 https://chromedriver.chromium.org/downloads
 ```
 
-放在預設的路徑或你要的路徑
+chromedriver 放在預設的路徑或你要的路徑
 ```
 sudo cp -R '檔案路徑' '/usr/bin/chromedriver'
 ```
